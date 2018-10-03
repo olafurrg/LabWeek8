@@ -1,0 +1,19 @@
+{
+  "name": "hugb",
+  "version": "1.0.0",
+  "description": "sadf",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olafurrg/LabWeek8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olafurrg/LabWeek8/issues"
+  },
+  "homepage": "https://github.com/olafurrg/LabWeek8#readme"
+}
