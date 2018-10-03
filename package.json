@@ -1,19 +1,22 @@
 {
   "name": "hugb",
   "version": "1.0.0",
-  "description": "sadf",
-  "main": "greeting.js",
+  "description": "4School",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olafurrg/LabWeek8.git"
   },
-  "author": "",
+  "author": "Oli",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/olafurrg/LabWeek8/issues"
   },
-  "homepage": "https://github.com/olafurrg/LabWeek8#readme"
+  "homepage": "https://github.com/olafurrg/LabWeek8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
