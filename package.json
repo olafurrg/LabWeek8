@@ -4,7 +4,9 @@
   "description": "4School",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watchall",
+    "clean": "rm -rf node_modules"
   },
   "repository": {
     "type": "git",
